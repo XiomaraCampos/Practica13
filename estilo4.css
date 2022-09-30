@@ -1,0 +1,37 @@
+﻿body
+{
+    margin:10px;
+    padding: 0px;
+    text-align: left;
+    font-family:Tahoma;
+    font-size: 12px;
+    color: black;
+    line-height:14px;
+}
+
+section{
+    width: 300px;
+}
+
+a{
+    text-decoration:underline;
+    color:#519FC3;
+}
+
+#marco1 {
+    background-image: url(https://i.pinimg.com/564x/4d/e8/89/4de889a02803e22a3291cf31b5ed6843.jpg);
+    margin: 12px 10px 15px 19px;
+}
+
+#marco2{
+    margin: 14px 0px 0px 90px;
+}
+
+.linea{
+    width:250px;
+    height:1px;
+}
+
+.link{
+    float:right;
+}

@@ -1,0 +1,80 @@
+﻿body
+{
+    background-color: #A0B2C2;
+}
+
+p{
+    font-family: Tahoma;
+    font-size: 24px;
+    font-style: bold;
+    text-align: center;
+}
+
+    p a {
+        font-size: 18pt;
+        color: #466770;
+        font-family:Tahoma;
+    }
+
+.formato{
+    color: red;
+    font-family: Tahoma;
+    font-size: 24pt;
+}
+
+
+#formato{
+    color: red;
+    font-family: Tahoma;
+    font-size: 24pt;
+}
+
+
+p > a{
+    font-size:  18px;
+    color: #00f;
+    font-family: tahoma;
+}
+
+h1 + h2{
+    color: #0000ff;
+    font-family: tahoma;
+}
+
+
+p{
+    font-family: tahoma;
+}
+
+p{
+    color: #ff0000;
+}
+
+p{
+    text-align: center;
+}
+
+p{
+    color: #ff0000; 
+    font-family: tahoma;
+    text-align: center;
+}
+
+p, h1{
+    font-family: tahoma;
+    color: #ff0000; 
+    text-align: center;
+}
+
+/*Ejercicio 14*/
+header{
+    background-color: grey;
+    border: 5px chartreuse;
+    width: 770px;
+    height: 200px;
+    -khtml-boder-radius: 10px;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px;
+    border-radius: 10px; 
+
+}
